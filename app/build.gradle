@@ -8,8 +8,8 @@ android {
     compileSdk 35
 
     defaultConfig {
-        applicationId 'app.netsrv.kalilinux'
-        minSdk 21
+        applicationId 'app.webview.errorpage'
+        minSdk 24
         targetSdk 35
         versionCode 1
         versionName "1.0"
@@ -32,7 +32,6 @@ android {
     }
 
     dataBinding {
-        //noinspection DataBindingWithoutKapt
         enabled = true
     }
 }

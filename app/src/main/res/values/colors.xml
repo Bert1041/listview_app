@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="drawer_bg_light">#FFFFFF</color> <!-- light background -->
+    <color name="drawer_bg_dark">#222222</color> <!-- fallback if selector fails -->
+
 </resources>
