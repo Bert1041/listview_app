@@ -1,5 +1,4 @@
 # ListViewPage
-Practical - Final Test for selection
 
 ## Signed APK
 
